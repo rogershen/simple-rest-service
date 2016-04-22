@@ -1,0 +1,13 @@
+build
+.gradle
+.idea
+out
+*.iml
+*.ipr
+*.iws
+.DS_Store
+bin/*
+.settings
+.classpath
+src/main/webapp/static/node_modules
+.project

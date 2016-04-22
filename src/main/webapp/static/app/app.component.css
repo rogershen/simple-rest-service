@@ -1,0 +1,55 @@
+h1 {
+  font-size: 1.2em;
+  color: #999;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.navbar a {
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li:hover,
+.navbar-default .navbar-nav > li:focus {
+  color: #5f5f5f;
+  background-color: #e7e7e7;
+}
+
+.navbar-brand:hover {
+	color: #5f5f5f;
+}
+
+footer {
+  padding: 10px 15px;
+  border-top: 1px solid #ddd;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+	margin-top: 20px;
+}
+
+.padded {
+	padding: 5px;
+	margin-bottom: 25px;
+}
+
+.center-block-extended {
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center-container-border {
+	width: 50%;
+	height: 500px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2px;
+	border: 2px solid lightgrey;
+	border-radius: 2px;
+}
